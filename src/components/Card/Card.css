@@ -4,8 +4,7 @@
   margin: 1rem 0.8rem 2rem;
   border-radius: 10px;
   transition: all 200ms;
-  color: #fff;
-  text-transform: uppercase;
+  color: #000000;
   backdrop-filter: blur(6px) saturate(200%);
   -webkit-backdrop-filter: blur(6px) saturate(200%);
   border: 1px solid rgba(209, 213, 219, 0.3);
@@ -21,7 +20,7 @@
   text-align: left;
   font-size: 0.8rem;
   width: 90%;
-  color: #fff;
+  color: #000000;
 }
 
 .favo {
@@ -31,7 +30,7 @@
   justify-content: space-between;
   padding: 0.5rem;
   align-items: center;
-  color: rgb(255, 255, 255);
+  color: #000000;
   font-weight: 500;
 }
 
@@ -51,7 +50,7 @@
 
 .ano span {
   font-size: 1.5rem;
-  color: rgb(255, 255, 255);
+  color: #000000;
 }
 
 .card:hover {
