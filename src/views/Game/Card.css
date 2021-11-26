@@ -1,0 +1,16 @@
+.container-card {
+  padding: 5rem;
+  margin: auto;
+  color: #fff;
+}
+
+.container-card-img {
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.container-card-img img {
+  margin: auto;
+  width: 500px;
+}

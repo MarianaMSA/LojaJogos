@@ -1,0 +1,9 @@
+.cont-carousel{
+    width: 94%;
+    margin: auto;
+    padding-bottom: 2rem;
+}
+
+.cont-carousel img{
+    height: 350px;
+}

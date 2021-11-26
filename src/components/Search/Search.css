@@ -1,0 +1,25 @@
+.navbar-form {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 2rem;
+}
+
+.navbar-form input {
+  width: 250px;
+  padding: 0.3rem;
+  font-size: 1.1rem;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+.navbar-form button {
+  padding: 0.4rem;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  margin-left: 1rem;
+  background: #fff;
+  border-radius: 15px;
+  border: 2px solid;
+  color: #1b1b22;
+}

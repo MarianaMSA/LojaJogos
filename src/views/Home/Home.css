@@ -1,0 +1,23 @@
+.head {
+  width: 100%;
+}
+
+.input-head {
+  color: #fff;
+}
+
+.container {
+  width: 80%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

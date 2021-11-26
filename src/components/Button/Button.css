@@ -1,0 +1,25 @@
+.button-navbar {
+  width: 100%;
+  height: 100%;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  padding: 1rem 0.5rem;
+  margin-bottom: 0.8rem;
+  border-radius: 10px;
+  border: none;
+  background: none;
+  color: white;
+  transition: all 300ms;
+}
+
+.azul {
+  border: 2px solid;
+}
+
+.verde {
+  border: 2px solid;
+}
+
+.button-navbar:hover {
+  transform: scale(1.1);
+}
